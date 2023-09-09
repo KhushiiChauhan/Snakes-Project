@@ -20,4 +20,5 @@ Future Enhancements:
 While our Snakes game is fully functional and entertaining, we have plans to enhance it further in the future. Some of our ideas include adding different levels of difficulty, introducing power-ups, and incorporating multiplayer capabilities to allow players to compete against each other.
 Making it a responsive design to work seamlessly on different devices, ensuring an enjoyable experience for players on both desktop and mobile platforms.
 
-Thankyou! Hope you have a wonderful gaming experience! 
+Thankyou! Hope you have a wonderful gaming experience!! 
+n0ew neww
